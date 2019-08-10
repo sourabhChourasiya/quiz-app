@@ -1,3 +1,7 @@
+/*
+* The main entry point of the application.
+* This file render the App component.
+* */
 import React from 'react';
 import ReactDOM from 'react-dom';
 
